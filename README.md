@@ -4,7 +4,7 @@ I noticed alot of snipers don't allow fresh accounts with no username on to snip
 
 This is a stepping stool for those who are wanting to make their own sniper. Inside of ``functions.h`` you'll see all the requests that need to be made to Minecraft in order to snipe.
 
-Using multiple accounts with this actually works if you use proxies that work. (I recommended Residential Proxies)
+Using multiple accounts with this actually works if you use proxies that work. I would **not** recommend using over 10 accounts. (I recommended Residential Proxies)
 
 If you would like to mess with the settings, you can in ``settings.h``
 
